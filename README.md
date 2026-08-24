@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Selvapandi-28/Java/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvapandi-28/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Selvapandi-28/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvapandi-28/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Selvapandi-28/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Selvapandi-28/Java/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -141,21 +144,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
