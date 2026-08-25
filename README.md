@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
+| [0633-sum-of-square-numbers](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvapandi-28/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Selvapandi-28/Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Selvapandi-28/Java/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
