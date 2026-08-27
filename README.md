@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0866-prime-palindrome](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0866-prime-palindrome) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0866-prime-palindrome) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Selvapandi-28/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
