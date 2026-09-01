@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvapandi-28/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Selvapandi-28/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvapandi-28/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Selvapandi-28/Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Selvapandi-28/Java/tree/master/1386-cinema-seat-allocation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Selvapandi-28/Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvapandi-28/Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvapandi-28/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Selvapandi-28/Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
