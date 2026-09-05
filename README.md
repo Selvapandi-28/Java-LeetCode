@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
