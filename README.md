@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Selvapandi-28/Java/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Selvapandi-28/Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Selvapandi-28/Java/tree/master/2213-longest-substring-of-one-repeating-character) |
