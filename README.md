@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
